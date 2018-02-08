@@ -16,5 +16,5 @@ How to install:
     6. Select this _sd2ify_ folder.
 
 Test it out.
-    Once loaded, try opening [https://jupyter.sd2e.org/user/jeg/tree/sd2e-community]
+    Once loaded, try opening https://jupyter.sd2e.org/user/jeg/tree/sd2e-community
     You'll notice that in the url, my username is automatically replaced with yours.
