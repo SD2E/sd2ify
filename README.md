@@ -4,7 +4,7 @@ This Chrome Extension makes it easier to share file links for SD2 by replacing a
 How to install:
 
     1. Locally clone this repo
-    2. Replace my username, "jeg", with yours on line 10 `background.js`
+    2. Replace my username, "jeg", with yours on line 10 in `background.js`
     3. Open Chrome Settings -> More Tools -> Extensions
     4. Enable Developer Mode
     5. Click Load unpacked extension
