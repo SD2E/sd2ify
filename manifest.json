@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension allows the user to change the background color of the current page.",
+  "name": "sd2ify",
+  "description": "Inserts your username in links on SD2.",
   "version": "1.0",
   "converted_from_user_script": true,
 
